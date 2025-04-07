@@ -5,7 +5,7 @@ I am a data and operations research enthusiast with a Masters in Industrial Engi
 - 🔭 I’m currently working on: Train Scheduling Optimization for Indian Railways, Dynamic Pricing of Freight Train for Indian Railways
 - 🌱 I’m learning: Full-stack development & backend for OR models
 - 📫 How to reach me: apurvnegi1998@gmail.com
-- 
+  
 
 ### 🛠️ Tech Stack:
 Python, Gurobi, SQL, Cplex, Power BI
